@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.09d4fc6a.css",
-    "main.js": "/static/js/main.5bb07f87.js",
-    "index.html": "/index.html",
-    "main.09d4fc6a.css.map": "/static/css/main.09d4fc6a.css.map",
-    "main.5bb07f87.js.map": "/static/js/main.5bb07f87.js.map"
+    "main.css": "/ReactFazt_localStorage/static/css/main.09d4fc6a.css",
+    "main.js": "/ReactFazt_localStorage/static/js/main.5bb07f87.js",
+    "index.html": "/ReactFazt_localStorage/index.html",
+    "main.09d4fc6a.css.map": "/ReactFazt_localStorage/static/css/main.09d4fc6a.css.map",
+    "main.5bb07f87.js.map": "/ReactFazt_localStorage/static/js/main.5bb07f87.js.map"
   },
   "entrypoints": [
     "static/css/main.09d4fc6a.css",
